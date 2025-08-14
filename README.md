@@ -29,5 +29,5 @@ Built using **React** for the frontend and **Node.js + Express + Socket.IO** for
 
 ---
 
-## 📂 Folder Structure
+
 
